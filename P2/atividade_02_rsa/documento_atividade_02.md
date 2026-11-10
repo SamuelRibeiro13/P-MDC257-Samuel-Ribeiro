@@ -9,7 +9,7 @@
 ---
 
 ## 2. Descrição do Problema
-O objetivo desta atividade é construir um programa simplificado de criptografia RSA em Python, aplicando números primos, função totiente de Euler, inverso multiplicativo e exponenciação modular. O programa trabalha com um número inteiro $M$ (e não com textos completos) e é dividido em quatro partes:
+O objetivo desta atividade é construir um programa simplificado de criptografia RSA em Python, aplicando verificação de números primos, função totiente de Euler, inverso multiplicativo e exponenciação modular. O programa trabalha com um número inteiro $M$ (e não com textos completos) e é dividido em quatro partes:
 
 - **Parte A:** verificar primalidade de $p$ e $q$ e calcular os parâmetros $n$, $\phi(n)$ e o expoente público $e$.
 - **Parte B:** construir o expoente privado $d$ e as chaves pública e privada.
